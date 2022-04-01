@@ -1,4 +1,11 @@
-### Hi there 👋
+### Greetings, adventurers.
+
+[TownExchange](https://town.exchange) is a DeFi MMO Universe.
+
+
+Are you ready to take on the quest?
+Join us at https://town.exchange
+
 
 <!--
 **townExchange/townExchange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
