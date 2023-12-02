@@ -1,10 +1,6 @@
 ### Greetings, adventurers.
 
-[TownExchange](https://town.exchange) is a DeFi MMO Universe.
-
-
-Are you ready to take on the quest?
-Join us at https://town.exchange
+[TownExchange](https://town.exchange) is a DeFi's Town Square.
 
 
 <!--
